@@ -1,7 +1,7 @@
 # Email-spam-Detection-with-ML
 <img src="emailspam.jpg" alt="Image description" width="800" height="500">>
 # Project Title
-### Email spam Detection with Machine Learning
+### Email Spam Detection with Machine Learning
 # Description
 This project implements a machine learning model to classify SMS messages as either spam or ham (not spam). The task utilizes Logistic Regression, a supervised learning algorithm, and evaluates its performance using multiple metrics, including accuracy, precision, recall, specificity, and confusion matrices. The project also includes a method for testing the classifier on new, unseen messages.
 

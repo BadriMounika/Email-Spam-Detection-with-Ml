@@ -6,15 +6,15 @@
 This project implements a machine learning model to classify SMS messages as either spam or ham (not spam). The task utilizes Logistic Regression, a supervised learning algorithm, and evaluates its performance using multiple metrics, including accuracy, precision, recall, specificity, and confusion matrices. The project also includes a method for testing the classifier on new, unseen messages.
 
 # Table of Contents
-- [Project Overview](Project-Overview)
-- [Dataset](dataset)
-- [Dependencies](dependencies)
-- [Project Structure](project-structure)
-- [Data Preprocessing](data-preprocessing)
-- [Model Training](model-training)
-- [Evaluation Metrics](evaluation-metrics)
-- [Testing a Custom Message](testing-a-custom-message)
-- [Conclusion](conclusion)
+- [Project Overview](#Project-Overview)
+- [Dataset](#dataset)
+- [Dependencies](#dependencies)
+- [Project Structure](#project-structure)
+- [Data Preprocessing](#data-preprocessing)
+- [Model Training](#model-training)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Testing a Custom Message](#testing-a-custom-message)
+- [Conclusion](#conclusion)
 ## Project Overview
 The goal of this project is to develop a model that can identify spam messages from a collection of SMS messages. The dataset used in this project contains labeled messages, which are either spam or ham. The project demonstrates how to preprocess the text data, train a machine learning model (specifically Logistic Regression), and evaluate the model's performance.
 
